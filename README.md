@@ -271,12 +271,12 @@
         <p>Available in 20+ colors with glossy finish and smooth extrusion.</p>
       </div>
       <div class="product">
-        <img src="https://th.bing.com/th/id/OIP.eut85dZ0EMrHwruBOMlM_gHaHa?w=187&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3 alt="PETG Filament">
+        <img src="https://th.bing.com/th/id/OIP.eut85dZ0EMrHwruBOMlM_gHaHa?w=187&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3">
         <h4>PETG Filament</h4>
         <p>Strong, reliable, and moisture-resistant filament for durable parts.</p>
       </div>
       <div class="product">
-        <img src="https://th.bing.com/th/id/OIP.w7TCo7tnREb9s-_lYZ7l7AHaHa?w=187&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3 alt="Carbon Fiber">
+        <img src="https://th.bing.com/th/id/OIP.w7TCo7tnREb9s-_lYZ7l7AHaHa?w=187&h=187&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3">
         <h4>Carbon Fiber Reinforced</h4>
         <p>Lightweight, high-strength material perfect for engineering use.</p>
       </div>
